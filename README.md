@@ -2,7 +2,7 @@
 
 > “DApp 开发魔法群” 大本营
 
-## 微信群
+## 微信群 <a name="wechat-group">&nbsp;</a>
 
 有任何 DApp 开发方面的疑问，欢迎加群讨论！
 
