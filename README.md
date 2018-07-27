@@ -23,7 +23,7 @@
 ## 文档 <a name="doc">&nbsp;</a>
 
 * 📢 [社区公约](https://github.com/cssmagic/DApp-Dev-Group/issues/3)
-* 👑 [VIP 指南：如何获得 VIP 资格？](https://github.com/cssmagic/DApp-Dev-Group/issues/1)
+* 👑 [VIP 指南：如何获得 VIP 资格？VIP 有什么用？](https://github.com/cssmagic/DApp-Dev-Group/issues/1)
 
 ## 其它 <a name="misc">&nbsp;</a>
 
