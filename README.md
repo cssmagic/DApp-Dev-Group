@@ -12,7 +12,7 @@
 
 ## 活动 <a name="event">&nbsp;</a>
 
-* [已结束] [魔法哥的投票你来定（第一季六月最佳应用评选）](https://github.com/cssmagic/DApp-Dev-Group/issues/6)
+* [已结束] [魔法哥的投票你来定（第一季六月月度评选）](https://github.com/cssmagic/DApp-Dev-Group/issues/6)
 * [已结束] [DApp 有奖评测大赛](https://github.com/cssmagic/DApp-Dev-Group/issues/5)
 * [已结束] [魔法哥的投票你来定（第一季第八周评选）](https://github.com/cssmagic/DApp-Dev-Group/issues/4)
 
