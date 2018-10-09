@@ -12,7 +12,7 @@
 
 ## 福利 <a name="bonus">&nbsp;</a>
 
-* [已结束] [VIP 空投奖励（第一季）](https://github.com/cssmagic/DApp-Dev-Group/issues/2) —— VIP 专享
+* [已结束] [群 VIP 空投奖励（第一季）](https://github.com/cssmagic/DApp-Dev-Group/issues/2) —— VIP 专享
 
 ## 活动 <a name="event">&nbsp;</a>
 
